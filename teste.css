@@ -12,7 +12,7 @@ URL:      www.plyfly.net
 body {
 font: normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif;
 color: #666666;
-background: #cfd9f6 none no-repeat scroll center center;
+background: #ccc;
 }
 html body .region-inner {
 min-width: 0;
