@@ -124,8 +124,8 @@ URL:      www.plyfly.net
 ----------------------------------------------- */
 body {
   font: $(body.font);
-  color: $(body.text.color);
-  background: $(body.background);
+  color: #666;
+  background: #ccc;
 }
 
 html body .region-inner {
