@@ -33,16 +33,16 @@ color: #ff9900;
 }
 .content-outer .content-cap-top {
 height: 5px;
-background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/travel/bg_container.png) repeat-x scroll top center;
+background: transparent;
 }
 .content-outer {
 margin: 0 auto;
 padding-top: 20px;
 }
 .content-inner {
-background: #ffffff url(https://resources.blogblog.com/blogblog/data/1kt/travel/bg_container.png) repeat-x scroll top left;
+background: #fff;
 background-position: left -5px;
-background-color: #ffffff;
+background-color: #fff;
 padding: 20px;
 }
 .main-inner .date-outer {
